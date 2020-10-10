@@ -7,7 +7,7 @@ logging.basicConfig(level=logging.INFO)
 
 logger = logging.getLogger(__name__)
 
-TOPIC = "dev.machine.cpu"
+TOPIC = "crypto.candles"
 
 c = Consumer(
     {

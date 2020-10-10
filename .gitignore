@@ -110,3 +110,8 @@ venv.bak/
 .connect/
 .idea/
 .nox/
+
+# Node
+node_modules/
+
+.node-version
